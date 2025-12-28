@@ -9,6 +9,6 @@ To use this, install "ffmpeg". You can install using the instructions here:
 
    Linux:
    --------------------
-   5.    sudo apt update -y
-   6.    sudo apt install ffmpeg
-   7.    sudo reboot 
+   1.    sudo apt update -y
+   2.    sudo apt install ffmpeg
+   3.    sudo reboot 
