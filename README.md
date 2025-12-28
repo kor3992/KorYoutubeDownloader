@@ -15,3 +15,5 @@ To use this, install "ffmpeg". You can install using the instructions here:
 -------------------------------
 You Also need to install Python,
  you can download the ideal python here: https://www.python.org/downloads/release/python-31311/
+------------
+Note: This app was only tested on windows and may not run on linux or macOS
