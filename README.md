@@ -13,5 +13,5 @@ To use this, install "ffmpeg". You can install using the instructions here:
    2. sudo apt install ffmpeg
    3. sudo reboot 
 -------------------------------
-You Also need to install Python
-,you can download the ideal python here: https://www.python.org/downloads/release/python-31311/
+You Also need to install Python,
+ you can download the ideal python here: https://www.python.org/downloads/release/python-31311/
