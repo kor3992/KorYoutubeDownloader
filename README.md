@@ -1,16 +1,12 @@
 # KorYoutubeDownloader
 A simple single-file YouTube Downloader GUI written in Python using tkinter and yt-dlp. Supports 1080p, 4K and best quality downloads, playlists, progress display, and automatic video+audio merging via ffmpeg. Easy to run and lightweight.
 
-Features
+To use this, install "ffmpeg". You can install using the instructions here:
 
-Simple graphical interface (no CLI needed)
+1. Windows 8.1/10/11:
+2. Install using the .bat file in "releases"
 
-Download videos or playlists
-
-Quality selection: 1080p, 4K, Best
-
-Progress bar with speed and ETA
-
-Automatic merging of video and audio
-
-Single Python file, easy to run
+3. Linux:
+4. sudo apt update -y
+5. sudo apt install ffmpeg
+6. sudo reboot 
